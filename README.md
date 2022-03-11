@@ -1,7 +1,7 @@
 # How to deploy a Dash-R app to Heroku
 
 This repo contains the individual assignment 2 for DSCI 532 for Julien Gordon
-The deployed app is hosted here https://dashr-dsci532ia2junigo.herokuapp.com/.
+The deployed app is hosted here https://dsci532ia2junigo.herokuapp.com/.
 
 Steps used to reproduce:
 
